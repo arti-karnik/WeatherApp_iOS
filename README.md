@@ -13,16 +13,10 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 Used below API to fetch 5 day forecast details:
 api.openweathermap.org/data/2.5/forecast/daily?lat={lat}&lon={lon}&cnt={cnt}&appid={API key}
 
-Video Recor
-
-https://github.com/arti-karnik/WeatherApp_iOS/assets/75514762/862ecf5f-f23c-4a98-9e7b-f3b033f9f556
-
-ding link of app developed:
+Video Recording
 <video src='https://github.com/arti-karnik/WeatherApp_iOS/assets/75514762/396907d2-baf7-4045-a4fa-f8f9fde90057' width=180/>
 
 
-https://github.com/arti-karnik/WeatherApp_iOS/assets/75514762/396907d2-baf7-4045-a4fa-f8f9fde90057
 
 
-https://github.com/arti-karnik/WeatherApp_iOS/assets/75514762/b18394a6-3e61-41c9-a33a-ff39f6fc27e2
 
