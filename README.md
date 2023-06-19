@@ -14,12 +14,13 @@ Used below API to fetch 5 day forecast details:
 api.openweathermap.org/data/2.5/forecast/daily?lat={lat}&lon={lon}&cnt={cnt}&appid={API key}
 
 Video Recording
-https://github.com/arti-karnik/WeatherApp_iOS/assets/75514762/55af7e7a-b252-4dba-92e1-61d8d795325c
-
-<video src='https://github.com/arti-karnik/WeatherApp_iOS/assets/75514762/55af7e7a-b252-4dba-92e1-61d8d795325c' width=180/> | <video src='video2.mp4' width=180/>
 
 <img width="333" alt="Screen Shot 2023-06-19 at 8 45 57 AM" src="https://github.com/arti-karnik/WeatherApp_iOS/assets/75514762/f7a400df-10ed-4d4b-ad50-003003d49e16">
 
+
+
+
+https://github.com/arti-karnik/WeatherApp_iOS/assets/75514762/06c0b37f-8541-46ea-9cad-e1815f686507
 
 
 
